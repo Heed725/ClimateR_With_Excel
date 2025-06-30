@@ -1,8 +1,4 @@
 # ClimateR_With_Excel
-Here is a **complete Markdown (.md) tutorial** file that includes multiple climate variables (not just precipitation) using `climateR`. It retrieves data, processes it seasonally, and plots them using `ggplot2`, styled with the Barlow font.
-
----
-
 ````markdown
 # 🌦️ Seasonal Climate Mapping with `climateR` and TerraClimate in R
 
